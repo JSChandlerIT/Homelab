@@ -6,8 +6,6 @@ The purpose of this documentation is to document the architecture, configuration
 
 ## Documentation Index
 
-## Documentation Index
-
 | Document | Description |
 |----------|-------------|
 | [Hardware](hardware.md) | Physical hardware inventory and planned upgrades |
