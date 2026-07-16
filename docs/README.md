@@ -6,15 +6,17 @@ The purpose of this documentation is to document the architecture, configuration
 
 ## Documentation Index
 
+## Documentation Index
+
 | Document | Description |
 |----------|-------------|
-| hardware.md | Physical hardware inventory and planned upgrades |
-| network.md | Network topology, IP scheme, and connectivity |
-| storage.md | Storage devices, layout, and capacity planning |
-| docker.md | Docker environment and container management |
-| monitoring.md | Prometheus, Grafana, Uptime Kuma, and monitoring stack |
-| security.md | Security controls, remote access, and hardening |
-| roadmap.md | Planned improvements and future projects |
+| [Hardware](hardware.md) | Physical hardware inventory and planned upgrades |
+| [Network](network.md) | Network topology, IP scheme, and connectivity |
+| [Storage](storage.md) | Storage devices, layout, and capacity planning |
+| [Docker](docker.md) | Docker environment and container management |
+| [Monitoring](monitoring.md) | Prometheus, Grafana, Uptime Kuma, and monitoring stack |
+| [Security](security.md) | Security controls, remote access, and hardening |
+| [Roadmap](roadmap.md) | Planned improvements and future projects |
 
 ## Scope
 
