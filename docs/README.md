@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This directory contains the technical documentation for my home lab infrastructure. The purpose of this documentation is to record the architecture, configuration, implementation, maintenance, and future development of the environment as it evolves.
+The purpose of this documentation is to document the architecture, configuration, implementation, operation, maintenance, and continuous improvement of the homelab environment.
 
 ## Documentation Index
 
@@ -35,7 +35,9 @@ Project-specific implementation details are documented separately in the `/proje
 
 This repository is maintained as a living engineering notebook.
 
-Changes are documented as they occur to provide an accurate record of system design decisions, troubleshooting, lessons learned, and future improvements.
+Documentation is updated as changes are implemented to provide an accurate history of system architecture, configuration decisions, troubleshooting activities, operational procedures, lessons learned, and future improvements.
+
+The objective is to maintain documentation that is clear, repeatable, and reflective of real-world systems administration and cybersecurity practices.
 
 ## Documentation Standards
 
@@ -47,6 +49,9 @@ Each document includes:
 - Implementation details
 - Lessons learned
 - Future improvements
+- Change log
+- References
+  
 
 ---
 
