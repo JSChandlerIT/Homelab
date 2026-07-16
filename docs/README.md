@@ -1,8 +1,8 @@
 # Homelab Documentation
 
-## Overview
+## Purpose
 
-This directory contains the core technical documentation for my homelab infrastructure. The documentation is organized by major infrastructure components and is updated as the environment evolves.
+This directory contains the technical documentation for my home lab infrastructure. The purpose of this documentation is to record the architecture, configuration, implementation, maintenance, and future development of the environment as it evolves.
 
 ## Documentation Index
 
@@ -16,7 +16,26 @@ This directory contains the core technical documentation for my homelab infrastr
 | security.md | Security controls, remote access, and hardening |
 | roadmap.md | Planned improvements and future projects |
 
----
+## Scope
+
+The documentation in this directory covers:
+
+- Physical infrastructure
+- Networking
+- Storage
+- Virtualization
+- Containerized services
+- Monitoring
+- Security
+- Planned improvements
+
+Project-specific implementation details are documented separately in the `/projects` directory.
+
+## Documentation Philosophy
+
+This repository is maintained as a living engineering notebook.
+
+Changes are documented as they occur to provide an accurate record of system design decisions, troubleshooting, lessons learned, and future improvements.
 
 ## Documentation Standards
 
