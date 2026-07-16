@@ -2,7 +2,7 @@
 
 Welcome to my home lab portfolio.
 
-My name is Jeff Scott Chandler, and I created this repository to document my journey building and administering a personal IT and cybersecurity lab.
+My name is Jeff Chandler, and I created this repository to document my journey building and administering a personal IT and cybersecurity lab.
 
 This lab serves as a hands-on learning environment where I can develop practical experience in:
 
