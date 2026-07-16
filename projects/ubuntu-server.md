@@ -1,4 +1,4 @@
-# Ubuntu Server Deployment
+# Ubuntu Server Infrastructure
 
 ## Project Timeline
 
