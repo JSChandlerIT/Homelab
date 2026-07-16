@@ -20,3 +20,9 @@
 | Planned | Deploy Immich private family cloud. | 📅 |
 | Planned | Build Active Directory lab. | 📅 |
 | Planned | Deploy Wazuh SIEM. | 📅 |
+
+## Project Overview
+
+This server serves as the primary infrastructure platform for my homelab. It hosts containerized applications, monitoring services, a Bitcoin Core full node, and provides the foundation for learning Linux system administration, networking, virtualization, and cybersecurity.
+
+Last Updated: 2026-07-16
